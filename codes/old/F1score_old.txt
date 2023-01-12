@@ -1,0 +1,80 @@
+5000000:
+strawman: 0.999858
+basic: 0.455049
+improved_old: 0.380896
+improved: 0.964316
+Optimization1: 0.988003
+Optimization2: 0.987852
+
+10000000:
+strawman: 0.999909
+basic: 0.514874
+improved_old: 0.442247
+improved: 0.973175
+Optimization1: 0.98952
+Optimization2: 0.989335
+
+15000000:
+strawman: 0.99989
+basic: 0.553789
+improved_old: 0.485642
+improved: 0.978557
+Optimization1: 0.989933
+Optimization2: 0.989709
+
+20000000:
+strawman: 0.999897
+basic: 0.582918
+improved_old: 0.51998
+improved: 0.980771
+Optimization1: 0.990227
+Optimization2: 0.990018
+
+25000000:
+strawman: 0.999924
+basic: 0.605213
+improved_old: 0.546109
+improved: 0.982086
+Optimization1: 0.990564
+Optimization2: 0.99035
+
+5000000:
+strawman: 0.999858
+basic: 0.599372
+improved_old: 0.47711
+improved: 0.964854
+Optimization1: 0.988568
+Optimization2: 0.988276
+
+10000000:
+strawman: 0.999909
+basic: 0.655197
+improved_old: 0.541929
+improved: 0.973657
+Optimization1: 0.989701
+Optimization2: 0.989471
+
+15000000:
+strawman: 0.99989
+basic: 0.690451
+improved_old: 0.587599
+improved: 0.979052
+Optimization1: 0.990043
+Optimization2: 0.989841
+
+20000000:
+strawman: 0.999897
+basic: 0.715803
+improved_old: 0.623156
+improved: 0.98129
+Optimization1: 0.990318
+Optimization2: 0.99016
+
+25000000:
+strawman: 0.999924
+basic: 0.734605
+improved_old: 0.649279
+improved: 0.982527
+Optimization1: 0.990649
+Optimization2: 0.990502
+
